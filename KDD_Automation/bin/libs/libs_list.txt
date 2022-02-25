@@ -1,0 +1,8 @@
+commons-collections4-4.1
+itextpdf-5.5.12
+java-client-6.1.0
+poi-3.17
+poi-ooxml-3.17
+poi-ooxml-schemas-3.17
+selenium-server-standalone-3.13.0
+xmlbeans-2.6.0
